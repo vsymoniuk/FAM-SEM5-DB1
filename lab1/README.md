@@ -10,10 +10,14 @@
    
 2. копії екранних форм (screenshots) вмісту таблиць бази даних з pgAdmin4
    
-      ![V](https://res.cloudinary.com/progbase/image/upload/v1600678026/other/discounts_c9prhj.jpg discounts)
+      discounts
+      ![V](https://res.cloudinary.com/progbase/image/upload/v1600678026/other/discounts_c9prhj.jpg)
    
-      ![V](https://res.cloudinary.com/progbase/image/upload/v1600678026/other/products_h1y074.jpg products)
+      products
+      ![V](https://res.cloudinary.com/progbase/image/upload/v1600678026/other/products_h1y074.jpg)
    
-      ![V](https://res.cloudinary.com/progbase/image/upload/v1600678025/other/customers_sh0k6c.jpg customers)
+      customers
+      ![V](https://res.cloudinary.com/progbase/image/upload/v1600678025/other/customers_sh0k6c.jpg
    
-      ![V](https://res.cloudinary.com/progbase/image/upload/v1600678026/other/orders_ync8xp.jpg orders)
+      orders
+      ![V](https://res.cloudinary.com/progbase/image/upload/v1600678026/other/orders_ync8xp.jpg)
