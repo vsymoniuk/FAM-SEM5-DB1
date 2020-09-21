@@ -5,13 +5,13 @@
 ##### виконав Симонюк В.П. група КП-83
 
 1. Модель «сутність-зв’язок» предметної галузі
-   [V](https://res.cloudinary.com/progbase/image/upload/v1600674247/other/er_qpswdk.jpg)
+   ![V](https://res.cloudinary.com/progbase/image/upload/v1600674247/other/er_qpswdk.jpg)
 2. копії екранних форм (screenshots) вмісту таблиць бази даних з pgAdmin4
-   1. discounts
-      [V](https://res.cloudinary.com/progbase/image/upload/v1600678026/other/discounts_c9prhj.jpg)
-   2. products
-      [V](https://res.cloudinary.com/progbase/image/upload/v1600678026/other/products_h1y074.jpg)
-   3. customers
-      [V](https://res.cloudinary.com/progbase/image/upload/v1600678025/other/customers_sh0k6c.jpg)
-   4. orders
-      [V](https://res.cloudinary.com/progbase/image/upload/v1600678026/other/orders_ync8xp.jpg****)
+   discounts
+      ![V](https://res.cloudinary.com/progbase/image/upload/v1600678026/other/discounts_c9prhj.jpg)
+   products
+      ![V](https://res.cloudinary.com/progbase/image/upload/v1600678026/other/products_h1y074.jpg)
+   customers
+      ![V](https://res.cloudinary.com/progbase/image/upload/v1600678025/other/customers_sh0k6c.jpg)
+   orders
+      ![V](https://res.cloudinary.com/progbase/image/upload/v1600678026/other/orders_ync8xp.jpg****)
